@@ -41,6 +41,7 @@ public class TraverseHashSet {
 				 val = false;
 			 }
 		 }
+		 sc.close();
 	 }
 
 }
