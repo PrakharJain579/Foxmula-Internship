@@ -49,6 +49,7 @@ public class Set {
 				 val = false;
 			 }
 		 }
+		 sc.close();
 	 }
 
 }
