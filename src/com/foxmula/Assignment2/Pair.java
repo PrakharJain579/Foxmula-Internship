@@ -55,6 +55,7 @@ public class Pair {
 				 val = false;
 			 }
 		 }
+		 sc.close();
 	 }
 
 }
