@@ -40,6 +40,7 @@ public class TraverseTreeSet {
 				 val = false;
 			 }
 		 }
+		 sc.close();
 	 }
 
 }
