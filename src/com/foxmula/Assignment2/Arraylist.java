@@ -50,5 +50,6 @@ public class Arraylist {
 				 val = false;
 			 }
 		 }
+		 sc.close();
 	 }
 }
