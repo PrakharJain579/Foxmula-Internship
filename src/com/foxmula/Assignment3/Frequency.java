@@ -17,8 +17,11 @@ public class Frequency {
 			set.add(Collections.frequency(arr,i));
 		}
 		
+	//	Making list of frequency and arranging it in descending order	
 		ArrayList<Integer> arr2 = new ArrayList<Integer>(set);
 		Collections.sort(arr2, Collections.reverseOrder());
+		
+	//	Set of array elements
 		HashSet<Integer> set2 = new HashSet<Integer>(arr);
 		
 		System.out.println("Frequencies are: "+arr2);
